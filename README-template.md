@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/Screenshot%202023-02-22%20at%2023-45-31%20Frontend%20Mentor%20Results%20summary%20component.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -36,8 +36,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/akshaymagrani/webDev-n-results-summary-component)
+- Live Site URL: [Live site URL here](https://web-dev-n-results-summary-component.vercel.app/)
 
 ## My process
 
@@ -46,13 +46,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -76,13 +71,15 @@ const proudOfThisFunc = () => {
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+1. [] Both sections - 'results' and 'summary' are of different lengths. Improve it.
+2. [] Errors on front end mentor website. Correct them.
+3. [] Update readme file with 'what I have learnt' and 'useful resources'
+4. [] CSS could be better. Improve it.
+5. [] Make the same using Bootstrap, SASS and LESS for practice.
 
 ### Useful resources
 
